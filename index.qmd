@@ -1,5 +1,17 @@
 ---
-title: "selinazhu"
+title: "Selina Yi-Jie Zhu"
+about:
+  template: trestles
+  image: images/profile_pictures/WechatIMG95.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - text: CV
+      file: Materials/"Selina Zhu Resume (May 2025).pdf"
 ---
 
 This is a Quarto website.
